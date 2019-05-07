@@ -1575,7 +1575,7 @@ HeidiSQL 프로그램은 무료로 사용할 수 있는 오픈소스 소프트�
 >![mysql_vsphere_4.1.17]
 
 
-[mysql_vsphere_1.3.01]:/Service-Guide/images/mysql/mysql_vsphere_1.3.01.png
+[mysql_vsphere_1.3.01]:/Guide-4.0-ROTELLE/Service-Guide/images/mysql/mysql_vsphere_1.3.01.png
 [mysql_vsphere_2.2.01]:/Service-Guide/images/mysql/mysql_vsphere_2.2.01.png
 [mysql_vsphere_2.2.02]:/Service-Guide/images/mysql/mysql_vsphere_2.2.02.png
 [mysql_vsphere_2.2.03]:/Service-Guide/images/mysql/mysql_vsphere_2.2.03.png
