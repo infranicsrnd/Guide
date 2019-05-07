@@ -11,7 +11,7 @@
 
 ## 서비스 설치 가이드
 - DBMS 설치
-  - [Cubrid](./Service-Guide/DBMS/PaaS-TA%20Cubrid%20서비스팩%20설치%20가이드.md)
+  - [Cubrid](https://guide.paas-ta.kr/guide-4.0-rotelle/service-guide/dbms/paas-ta-cubrid)
   - [MySQL](./Service-Guide/DBMS/PaaS-TA%20MySQL%20서비스팩%20설치%20가이드.md)
 - NOSQL 설치
   - [MongoDB](./Service-Guide/NoSQL/PaaS-TA%20Mongodb%20서비스팩%20설치%20가이드.md)
