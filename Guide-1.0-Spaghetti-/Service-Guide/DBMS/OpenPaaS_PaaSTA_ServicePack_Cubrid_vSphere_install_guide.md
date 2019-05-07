@@ -26,12 +26,12 @@
       
 본 문서(Cubrid 서비스팩 설치 가이드)는 전자정부표준프레임워크 기반의 Open PaaS에서 제공되는 서비스팩인 Cubrid 서비스팩을 Bosh를 이용하여 설치 하는 방법과 Open PaaS의 SaaS 형태로 제공하는 Application 에서 Cubrid 서비스를 사용하는 방법을 기술하였다.
 
-<div id='3'></div>
+
 ### 1.2. 범위 
 
 설치 범위는 Cubrid 서비스팩을 검증하기 위한 기본 설치를 기준으로 작성하였다. 
 
-<div id='4'></div>
+
 ### 1.3. 시스템 구성도
 본 문서의 설치된 시스템 구성도입니다. Cubrid Server, Cubrid 서비스 브로커로 최소사항을 구성하였다.  
 ![시스템 구성도][1-3-0-0]
@@ -51,15 +51,15 @@
   </tr>
 </table>
 
-<div id='5'></div>
+
 ### 1.4. 참고자료
 **<http://bosh.io/docs>**  
 **<http://docs.cloudfoundry.org/>**
 
-<div id='6'></div>
+
 #   2. Cubrid 서비스팩 설치
 
-<div id='7'></div>
+
 ### 2.1. 설치전 준비사항
 본 설치 가이드는 Linux 환경에서 설치하는 것을 기준으로 하였다.  
 서비스팩 설치를 위해서는 먼저 BOSH CLI 가 설치 되어 있어야 하고 BOSH 에 로그인 및 타켓 설정이 되어 있어야 한다.  
@@ -74,7 +74,7 @@ BOSH CLI 가 설치 되어 있지 않을 경우 먼저 BOSH 설치 가이드 문
 >OpenPaaS-Sample-Apps : **<http://extdisk.hancom.com:8080/share.cgi?ssid=0icB5ZW>**
 
 
-<div id='8'></div>
+
 ###   2.2. Cubrid 서비스 릴리즈 업로드
 
 - OpenPaaS-Services을 다운로드 받고 폴더안에 있는 cubrid 서비스 릴리즈 openpaas-cubrid-1.0.tgz 파일을 확인한다.
