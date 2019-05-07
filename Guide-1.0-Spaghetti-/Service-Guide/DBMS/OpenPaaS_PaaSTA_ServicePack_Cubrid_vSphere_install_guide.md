@@ -564,7 +564,7 @@ Cubrid Manager 프로그램은 Cubrid에서 제공하는 무료로 사용할 수
 ![4-2-19-0]
 
 
-[1-3-0-0]:/Guide-1.0-Spaghetti-/images/openpaas-service/cubrid/cubrid_vsphere/1-3-0-0.png
+[1-3-0-0]:/images/openpaas-service/cubrid/cubrid_vsphere/1-3-0-0.png
 [2-1-0-0]:/Guide/Guide-1.0-Spaghetti-/images/openpaas-service/cubrid/cubrid_vsphere/2-1-0-0.png
 [2-1-1-0]:/guide/Guide/Guide-1.0-Spaghetti-/images/openpaas-service/cubrid/cubrid_vsphere/2-1-1-0.png
 [2-2-0-0]:/ubuntu/guide/Guide/Guide-1.0-Spaghetti-/images/openpaas-service/cubrid/cubrid_vsphere/2-2-0-0.png
@@ -635,4 +635,4 @@ Cubrid Manager 프로그램은 Cubrid에서 제공하는 무료로 사용할 수
 [2-2-0-0-1]:/images/openpaas-service/cubrid/cubrid_vsphere/2-2-0-0-1.png
 [2-2-4-0-1]:/images/openpaas-service/cubrid/cubrid_vsphere/2-2-4-0-1.png
 [2-2-6-0-1]:/images/openpaas-service/cubrid/cubrid_vsphere/2-2-6-0-1.png
-[2-2-7-0-1]:/images/openpaas-service/cubrid/cubrid_vsphere/2-2-7-0-1.png
+[2-2-7-0-1]:/Guide-1.0-Spaghetti-/images/openpaas-service/cubrid/cubrid_vsphere/2-2-7-0-1.png
